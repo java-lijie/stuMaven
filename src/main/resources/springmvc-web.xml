@@ -12,6 +12,7 @@
         http://www.springframework.org/schema/mvc
         http://www.springframework.org/schema/mvc/spring-mvc.xsd">
 
+	<!--扫描controller层的注解-->
 	<context:component-scan base-package="cn.bdqn.controller"/>
 
 	<mvc:annotation-driven>

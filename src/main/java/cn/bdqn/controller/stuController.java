@@ -29,6 +29,7 @@ import java.util.List;
  */
 @Controller
 public class stuController {
+        //自动扫描
         @Autowired
         stuService stuService;
 
