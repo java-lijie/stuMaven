@@ -1,0 +1,8 @@
+cn\bdqn\dao\impl\stuDaoImpl.class
+cn\bdqn\dao\stuDao.class
+cn\bdqn\entity\Record.class
+cn\bdqn\entity\Student.class
+cn\bdqn\entity\User.class
+cn\bdqn\service\impl\stuServiceImpl.class
+cn\bdqn\service\stuService.class
+cn\bdqn\controller\stuController.class
